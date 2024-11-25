@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: bus_itinerary
+
+myapp:
+  file-path: classpath:/datasource/file1.txt
