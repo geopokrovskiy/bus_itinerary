@@ -23,7 +23,7 @@ import java.util.Set;
 @Slf4j
 public class BusItineraryServiceImpl implements BusItineraryService {
 
-    @Value("classpath:/datasource/file4.txt")
+    @Value("classpath:/datasource/file3.txt")
     private Resource file;
 
     private Map<Integer, Set<Pair<Integer, Integer>>> busStopItinerariesSetMap = new HashMap<>();
