@@ -1,4 +1,4 @@
-package com.geopokrovskiy.utils;
+package com.geopokrovskiy.collections;
 
 import lombok.Data;
 
